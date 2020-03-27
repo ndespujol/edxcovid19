@@ -5,7 +5,7 @@
 
 ## node web app created to share edx promotional codes at the Universitat Politènica de Valencia
 
-  
+  ### The [Universitat Politècnica de Valencia](https://www.upv.es/) is proud to contribute with the edX project with this promotional code dispatcher.
 
 > Disclaimer: you can see the web working at
 > https://edxcovid19.webs.upv.es/ but you need an upv related email to
