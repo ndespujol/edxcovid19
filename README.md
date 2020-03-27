@@ -8,7 +8,7 @@
   ### The [Universitat Politècnica de Valencia](https://www.upv.es/) is proud to contribute with the edX project with this promotional code dispatcher.
 
 > Disclaimer: you can see the web working at
-> https://edxcovid19.webs.upv.es/ but you need an upv related email to
+> http://www.upv.es/edxcovid19/ but you need an upv related email to
 > request licences
 > 
 > 
